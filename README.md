@@ -214,4 +214,4 @@ Xpdf is offered as a **full free version** with all features and updates include
 Ready to enhance your PDF management? **Download Xpdf for free today and experience the difference!**
 
 ---
-**Last updated:** 2026-10-19 12:01:23 UTC
+**Last updated:** 2026-10-19 18:58:18 UTC
